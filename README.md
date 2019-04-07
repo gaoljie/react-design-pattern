@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [函数组件(Functional Component)](#函数组件-functional-component) 
+- [函数组件(Functional Component)](#函数组件functional-component) 
 - [ Render Props](#render-props) 
-- [高阶组件(HOC)](#高阶组件-hoc) 
-- [组合组件(Compound Components)](#组合组件-compound-components) 
-- [提供者模式(Provider Pattern)](#提供者模式-provider-pattern) 
+- [高阶组件(HOC)](#高阶组件hoc) 
+- [组合组件(Compound Components)](#组合组件compound-components) 
+- [提供者模式(Provider Pattern)](#提供者模式provider-pattern) 
 - [ State Reducer](#state-reducer) 
 - [Controlled Components](#controlled-components) 
 - [Hook](#hook) 
